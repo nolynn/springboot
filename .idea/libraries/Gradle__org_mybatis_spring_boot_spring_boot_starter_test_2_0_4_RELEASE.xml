@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.mybatis.spring.boot:spring-boot-starter-test:2.0.4.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Could not find org.mybatis.spring.boot:spring-boot-starter-test:2.0.4.RELEASE.&#13;&#10;Searched in the following locations:&#13;&#10;    https:/repo1.maven.org/maven2/org/mybatis/spring/boot/spring-boot-starter-test/2.0.4.RELEASE/spring-boot-starter-test-2.0.4.RELEASE.pom&#13;&#10;    https:/repo1.maven.org/maven2/org/mybatis/spring/boot/spring-boot-starter-test/2.0.4.RELEASE/spring-boot-starter-test-2.0.4.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

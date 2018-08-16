@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : springboot : Springboot-2.0.4.RELEASE.war">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$" />
+    </properties>
+    <root id="archive" name="Springboot-2.0.4.RELEASE.war">
+      <element id="artifact" artifact-name="Gradle : springboot : Springboot-2.0.4.RELEASE.war (exploded)" />
+    </root>
+  </artifact>
+</component>
